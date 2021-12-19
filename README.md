@@ -7,8 +7,10 @@ A website that offers fitness training services.
 * HTML
 * CSS
 
-## Website
-https://lernantino.github.io/run-buddy/
+## Installation
+Download and enjoy!
 
 ## Contribution
 Made with ❤️ by Drew Speed
+
+### ©️2019 Run Buddy, Inc
